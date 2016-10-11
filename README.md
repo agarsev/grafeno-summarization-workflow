@@ -36,7 +36,7 @@ $ git submodule init
 $ git submodule update
 ```
 
-Then get the ROUGE npm module:
+Then install _nodejs_, _npm_, and get the ROUGE npm module:
 
 ```
 $ npm install
