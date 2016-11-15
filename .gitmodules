@@ -1,3 +1,4 @@
 [submodule "grafeno"]
 	path = grafeno
 	url = https://github.com/agarsev/grafeno
+	branch = master
